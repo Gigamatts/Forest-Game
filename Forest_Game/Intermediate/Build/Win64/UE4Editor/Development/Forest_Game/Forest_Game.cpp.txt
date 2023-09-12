@@ -1,0 +1,2 @@
+D:\Unreal Projects\Forest-Game\Forest_Game\Intermediate\Build\Win64\UE4Editor\Development\Forest_Game\Definitions.Forest_Game.h
+D:\Unreal Projects\Forest-Game\Forest_Game\Source\Forest_Game\Forest_Game.h

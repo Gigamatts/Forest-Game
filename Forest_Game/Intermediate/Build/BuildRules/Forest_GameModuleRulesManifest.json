@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Forest-Game\\Forest_Game\\Source\\Forest_Game\\Forest_Game.Build.cs",
+		"D:\\Unreal Projects\\Forest-Game\\Forest_Game\\Source\\Forest_Game.Target.cs",
+		"D:\\Unreal Projects\\Forest-Game\\Forest_Game\\Source\\Forest_GameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

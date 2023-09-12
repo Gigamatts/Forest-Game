@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Forest_Game.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3967A4FD-D9BD-4E11-8411-D8A77DA61E4F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Forest_Game.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Forest_GameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7BAD1193-CA23-4481-81B8-11F72481F155}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Forest_Game">
+      <UniqueIdentifier>{EEFD2EFE-6224-4251-9B23-A08AC1EAF011}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Forest_Game\Forest_Game.Build.cs">
+      <Filter>Source\Forest_Game</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Forest_Game\Forest_Game.cpp">
+      <Filter>Source\Forest_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forest_Game\Forest_Game.h">
+      <Filter>Source\Forest_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Forest_Game\Forest_GameCharacter.cpp">
+      <Filter>Source\Forest_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forest_Game\Forest_GameCharacter.h">
+      <Filter>Source\Forest_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Forest_Game\Forest_GameGameMode.cpp">
+      <Filter>Source\Forest_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forest_Game\Forest_GameGameMode.h">
+      <Filter>Source\Forest_Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

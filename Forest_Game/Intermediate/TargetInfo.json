@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Forest_Game",
+			"Path": "D:\\Unreal Projects\\Forest-Game\\Forest_Game\\Source\\Forest_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Forest_GameEditor",
+			"Path": "D:\\Unreal Projects\\Forest-Game\\Forest_Game\\Source\\Forest_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
