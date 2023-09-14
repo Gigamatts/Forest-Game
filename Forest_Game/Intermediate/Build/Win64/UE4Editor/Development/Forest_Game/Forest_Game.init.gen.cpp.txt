@@ -1,3 +1,3 @@
-D:\Unreal Projects\Forest-Game\Forest_Game\Intermediate\Build\Win64\UE4Editor\Development\Forest_Game\Definitions.Forest_Game.h
-D:\Programs\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Programs\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Pedro Celli\Documents\GitHub\Forest-Game\Forest_Game\Intermediate\Build\Win64\UE4Editor\Development\Forest_Game\Definitions.Forest_Game.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
