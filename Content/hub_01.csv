@@ -1,0 +1,11 @@
+Capy,Capy_idle,Leaf! You're finally here! The forest is in chaos!
+Leaf,Leaf_idle,What happened?
+Capy,Capy_scared,Dark magic has poisoned the Great Tree. Now monsters have appeared everywhere!
+Capy,Capy_scared,We need your help!
+Leaf,Leaf_scared,WHAAAAT??
+Leaf,Leaf_idle,"Don't worry pal, I am here to help! "
+Capy,Capy_happy,Oh really? Thank you!
+Capy,Capy_idle,All you need to do is find magic gems to purify the Great Tree. I know there are some hidden in the forest nearby.
+Capy,Capy_idle,Hop over to that tree trunk to get there!
+Leaf,Leaf_happy,Alright! Leaf Hopper to the rescue!
+Leaf,Leaf_annoyed,Guess there's no more nap time for me...
